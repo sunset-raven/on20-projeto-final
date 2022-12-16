@@ -13,7 +13,7 @@ export function ApplicationRoutes() {
         <BrowserRouter>
             <Header />
             <Title />
-                <Routes>
+            <Routes>
                 <Route path="/" element={<Home />}/>
                 <Route path="/inscricao" element={<Inscricao />}/>
                 <Route path="/busca" element={<Busca />}/>
