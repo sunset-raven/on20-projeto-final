@@ -1,0 +1,56 @@
+.bodyInscricao {
+    display: flex;
+    flex-direction: column;
+}
+
+.bodyInscription > form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: #686AAC;
+    margin-bottom: 10px;
+}
+
+.bodyIntro {
+    display: flex;
+    background-color: #686AAC;
+    margin-bottom: 10px;
+    margin-block-start: 0px;
+}
+
+.bodyIntro > span {
+    margin: 10px;
+    color: antiquewhite;
+    font-weight: 300;
+}
+
+.results {
+    display: flex;
+    margin-block: 0px;
+    font-size: large;
+    color: chartreuse;
+    text-align: center;
+    align-self: center;
+}
+
+.inputBox {
+    display: flex;
+    margin: 8px;
+    color: antiquewhite;
+    font-weight: bold;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.inscriptionButton {
+    display: flex;
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+#insideButton {
+    font-weight: bold;
+    border-style: inset;
+    border-radius: 10%;
+    padding: 5px 10px;
+}

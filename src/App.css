@@ -1,0 +1,20 @@
+#centralBody {
+    background-color: #484A78;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
