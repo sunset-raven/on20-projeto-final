@@ -1,7 +1,7 @@
 import { slide as Menu } from 'react-burger-menu'
 import React from 'react'
 import '../styles/components/menu-stylesheet.css'
-import { Link } from 'react-router-dom'
+import { Link, Router } from 'react-router-dom'
 
 class Hamburger extends React.Component {
 

@@ -8,13 +8,11 @@ import { Busca } from './pages/Busca'
 
 export function ApplicationRoutes() {
     return(
-        <BrowserRouter>
             <Routes>
                 <Route path="/" element={<Home />}/>
                 <Route path="/inscricao" element={<Inscricao />}/>
                 <Route path="/busca" element={<Busca />}/>
                 <Route path="/sobre" element={<Sobre />}/>
             </Routes>
-        </BrowserRouter>
     )
 }
