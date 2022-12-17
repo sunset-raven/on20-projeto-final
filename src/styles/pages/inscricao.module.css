@@ -22,6 +22,8 @@
     margin: 10px;
     color: antiquewhite;
     font-weight: 300;
+    display: flex;
+    text-align: end;
 }
 
 .results {
@@ -51,6 +53,6 @@
 #insideButton {
     font-weight: bold;
     border-style: inset;
-    border-radius: 10%;
+    border-radius: 10px;
     padding: 5px 10px;
 }

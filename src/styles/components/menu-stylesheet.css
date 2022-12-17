@@ -70,10 +70,11 @@
   margin: 0.3rem;
   display: flex !important;
   align-self: center;
-  border-radius: 100%;
+  border-radius: 25px;
   width: 100%;
   justify-content: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
 }
 
 /* Styling of overlay */

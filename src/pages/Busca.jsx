@@ -35,7 +35,7 @@ export function Busca() {
         <>
             <div className={styles.searchBegin}>
                 <p>Insira o primeiro nome da profissional para iniciar a busca:</p>
-                <input type="text" className={styles.inputBusca} id="inputBusca" onChange={handleSearch} />
+                <input type="text" placeholder="Lembre-se que caixa alta ou baixa faz diferença!" className={styles.inputBusca} id="inputBusca" onChange={handleSearch} />
             </div>
             {filteredResults.map(professionals => {
                 return (

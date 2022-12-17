@@ -1,0 +1,33 @@
+.sobre {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.introduction {
+    background: #686AAC;
+    padding: 8px;
+    font-size: small;
+    text-align: justify;
+    text-indent: 50px;
+    margin: 8px;
+    color: antiquewhite;
+}
+
+.myBestPic {
+
+    margin: 8px;
+    border-radius: 10px;
+    width: 70%;
+}
+
+.linksMaster {
+    display: flex;
+    margin: 10px;
+}
+
+.links {
+    width: 40px;
+    margin: 10px;
+}

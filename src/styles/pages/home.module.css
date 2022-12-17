@@ -1,6 +1,14 @@
 .homeBase {
     background-color: #686AAC;
-    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homeBase > img {
+    width: 50%;
+    height: fit-content;
+    margin: 10px;
 }
 
 .homeInitialText {
