@@ -10,7 +10,7 @@ class Hamburger extends React.Component {
       right
       width={ '20%' }
       >
-        <a id="home" className="menu-item" path="/">Home</a>
+        <a id="home" className="menu-item" href="/">Home</a>
         <a id="inscricao" className="menu-item" href="/inscricao">Inscricao</a>
         <a id="busca" className="menu-item" href="/busca">Busca</a>
         <a id="sobre" className="menu-item" href="/sobre">Sobre</a>
