@@ -1,0 +1,77 @@
+.searchBegin {
+    background-color: #686AAC;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.searchBegin > p {
+    margin-block: 0;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: antiquewhite;
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+.inputBusca {
+    margin-bottom: 8px;
+}
+
+.searchInfo {
+    display: flex;
+    background-color: #686AAC;
+    margin: 0px 8px 8px;
+    color: antiquewhite;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.email {
+    font-size: 0.8em;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    margin-block: 0;
+    margin: 8px 0px;
+}
+
+
+.gender {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    margin-block: 0;
+    margin-bottom: 8px;
+    align-items: center;
+}
+
+.Image {
+    display: flex;
+    background-color: aliceblue;
+    border-color: #373a47;
+    border: 2px solid black;
+}
+
+.firstAndLastName {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-start;
+    font-weight: bold;
+}
+
+.firstAndLastName > p:first-child {
+    margin-block: 0;
+}
+
+.firstAndLastName > p:last-child {
+    margin-left: 4px;
+    margin-block: 0;
+}

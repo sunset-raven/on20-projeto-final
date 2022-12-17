@@ -1,27 +1,21 @@
 #centralBody {
     background-color: #484A78;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+    margin: 0;
 }
 
 #root {
     display: flex;
     flex-direction: column;
-    flex-grow: 1;
-
 }
 
 .App {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    flex-grow: 1;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    min-height: 100vh;
+    padding-bottom: 12px;
+    box-sizing: border-box;
 }
-#centralBody::-webkit-scrollbar {
-        display: none;
-      }
