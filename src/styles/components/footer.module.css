@@ -6,6 +6,7 @@
     align-items: center;
     margin-top: auto;
     margin-bottom: 12px;
+    overflow: hidden;
 }
 
 .footerText {

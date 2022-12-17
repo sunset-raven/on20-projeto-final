@@ -1,5 +1,6 @@
 .homeBase {
     background-color: #686AAC;
+    overflow: hidden;
 }
 
 .homeInitialText {
