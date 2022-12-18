@@ -15,7 +15,6 @@ export function Busca() {
             const response = await Axios.get('https://random-data-api.com/api/v2/users?size=10&is_json=true')
             const final = response.data
             setResult(final)
-            console.log(final)
         }
         getData()
     }, [])
