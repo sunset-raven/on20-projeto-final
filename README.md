@@ -35,3 +35,8 @@ Caso tenha o interesse de colaborar com o projeto, principalmente busco solucion
 ## Status do projeto
 
 A princípio, por falta de conhecimento, o projeto não manterá o mesmo ritmo. Mas pretendo continuar, ainda que aos poucos.
+
+Sites com o projeto atualmente:
+- https://on20-projeto-final.vercel.app
+- https://projeto-conexao.netlify.app
+
