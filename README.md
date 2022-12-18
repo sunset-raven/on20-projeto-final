@@ -2,6 +2,8 @@
 
 Projeto Conexão é um projeto em React feito com o intuito de auxiliar pessoas trans a terem acesso a atendimento de saúde mental.
 
+O site foi todo pensado para ser visualizado prioritariamente em 360x640.
+
 ## Descrição
 
 Projeto Conexão pretende criar um banco de dados com profissionais de saúde mental voluntariamente se inscrevendo, e possibilitar a busca destes por pessoas trans. Conhecendo os dados de suicídio de pessoas trans, que superam 40%, e também sabendo das dificuldades que pessoas trans enfrentam para trabalhar, é possível deduzir que a maior parte das pessoas trans são pobres (e negras - é importante frisar, por conhecer o componente racial desta opressão), que não tem acesso a atendimentos por profissionais de saúde mental e acessam a internet pelo celular, método mais acessível.
